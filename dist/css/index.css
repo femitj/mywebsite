@@ -1,0 +1,40 @@
+body,html{
+  height:100%;
+}
+
+.btn{
+  border-radius: 40px;
+}
+
+/* .my-image{
+  height: 10rem;
+  border-radius: 100%;
+} */
+
+/* .avatar img {
+  width: 190px;
+  height: 190px;
+} */
+
+/* .avatar {
+  vertical-align: middle;
+  width: 200px;
+  height: 190px;
+  border-radius: 50%;
+} */
+
+.avatar img {
+  margin: 0 auto;
+  border-radius: 100%;
+  /* height: 230px; */
+}
+
+p, h3{
+  letter-spacing: 2px;
+  color: gray;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mybtn {
+  border: solid 1px #c8cccf;
+}
